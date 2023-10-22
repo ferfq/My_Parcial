@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Parcial 2</string>
+    <string name="TV1">Bienvenido a la pagina principal</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="BotonRegistrarse">Registrarse</string>
+    <string name="BotonAtras">Volver</string>
+    <string name="EtNombre">nombre</string>
+    <string name="EtApellido">apellido</string>
+    <string name="EtNombre2">nombre</string>
+    <string name="EtApellido2">apellido</string>
+    <string name="BotonEnviar">Enviar</string>
+    <string name="BotonRegresar">Volver</string>
+    <string name="BotonInicio">Volver al inicio</string>
+    <string name="Etbusqueda">ingresa la busqueda</string>
+    <string name="Botonira">ir atras</string>
+    <string name="BotonBuscar">Buscar</string>
+    <string name="Botonir">Devolverse</string>
+
+
+
+
+</resources>
